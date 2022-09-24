@@ -19,6 +19,7 @@
     width: 60vw;
     max-width: 500px;
     top: 0;
+    background-color: yellow;
   }
 
   .leaflet-control-attribution {
