@@ -26,7 +26,7 @@ body {
 #contents {
   padding: 50px;
   width: 50%;
-  margin-top: 10; /*Adjust if Title header needs more space */
+  margin-top: 50; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
   overflow-y: scroll;
   overflow-x: hidden;
