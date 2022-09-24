@@ -3,6 +3,7 @@ body {
   margin: 10px;
   font-family: "Playfair Display", normal;
   overflow: hidden;
+  background-color: green;
 }
 
 #map {
